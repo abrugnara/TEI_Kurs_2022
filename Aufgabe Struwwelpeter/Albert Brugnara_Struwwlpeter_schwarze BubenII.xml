@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+      <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">Der Struwwelpeter</title>
+            <title type="sub">Die Geschichte von den schwarzen Buben. </title>
+            <author ref="https://de.wikisource.org/wiki/Heinrich_Hoffmann">Heinrich Hoffmann;
+               Pseudonym: Reimerich Kinderlieb</author>
+            <respStmt>
+               <resp>Text input:</resp>
+               <name>Albert Brugnara</name>
+            </respStmt>
+            <respStmt>
+               <!-- Editing of the digital text (encoding, markup) -->
+               <resp>TEI Encoding and Markup:</resp>
+               <name>2022W 136013-1 Textkodierung und Textanalyse mit TEI, University of Vienna;
+                  Übung: Aufgabe: XML-Datenmodell zur Beschreibung einer Geschichte im
+                  Struwwelpeter</name>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition>400. Auflage</edition>
+         </editionStmt>
+         <publicationStmt>
+            <publisher>Literarische Anstalt Rütten &amp; Loening</publisher>
+            <date>1917</date>
+            <pubPlace>Frankfurt am Main</pubPlace>
+            <availability>
+               <p>Die Urheberrechts-Schutzdauer des hier abgebildeten flächigen Kunstwerks ist
+                  weltweit abgelaufen, da der Künstler bereits seit über 70 Jahren tot ist. Es ist
+                  somit gemeinfrei ('public domain'). Ebenfalls gemeinfrei ist die vorliegende
+                  Reproduktion des Werkes, da sie keine eigene Schöpfungshöhe aufweist</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Exemplar der Universitätsbibliothek Braunschweig, Signatur: <idno type="signature"
+                  >2007-0968</idno> Das Erscheinungsjahr der Textquelle ist das Jahr
+                  <date>1844</date>. </p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <head><ref
+               target="https://de.wikisource.org/wiki/Der_Struwwelpeter/Die_Geschichte_von_den_schwarzen_Buben"
+               >Die Geschichte von den schwarzen Buben.</ref></head>
+         <div xml:id="Seite.1" n="8">
+            <p>Es ging spazieren vor dem Tor<lb/> Ein kohlpechrabenschwarzer Mohr.<lb/> Die Sonne
+               schien ihm aufs Gehirn,<lb/> Da nahm er seinen Sonnenschirm.<lb/> Da kam der <persName>L u d w
+               i g</persName> hergerannt<lb/> Und trug sein Fähnchen in der Hand.<lb/> Der <persName>K a s p a r </persName>kam mit
+               schnellem Schritt<lb/> Und brachte seine Bretzel mit;<lb/> Und auch der <persName>W i l h e l m</persName>
+               war nicht steif<lb/> Und brachte seinen runden Reif.<lb/> Die schrie’n und lachten
+               alle drei,<lb/> Als dort das Mohrchen ging vorbei,<lb/> Weil es so schwarz wie Tinte
+               sei!<lb/>
+            </p>
+         </div>
+         <figure>
+            <graphic url="https://commons.wikimedia.org/wiki/File:H_Hoffmann_Struwwel_09.jpg"/>
+         </figure>
+         <div xml:id="Seite.2" n="9">
+            <p>Da kam der große <persName>N i k o l a s</persName><lb/> Mit seinem großen Tintenfaß.<lb/> Der sprach:
+               „Ihr Kinder, hört mir zu<lb/> Und laßt den Mohren hübsch in Ruh’!<lb/> Was kann denn
+               dieser Mohr dafür,<lb/> Daß er so weiß nicht ist, wie ihr?“<lb/> Die Buben aber
+               folgten nicht<lb/> Und lachten ihm ins Angesicht<lb/> Und lachten ärger als
+               zuvor<lb/> Über den armen schwarzen Mohr.<lb/>
+            </p>
+         </div>
+         <figure>
+            <graphic url="https://commons.wikimedia.org/wiki/File:H_Hoffmann_Struwwel_10.jpg"/>
+         </figure>
+         <div xml:id="Seite.3" n="10">
+            <p>Der <persName>Niklas</persName> wurde bös und wild,<lb/> Du siehst es hier auf diesem Bild!<lb/> Er packte
+               gleich die Buben fest,<lb/> Beim Arm, beim Kopf, bei Rock und West’,<lb/> Den <persName>Wilhelm</persName>
+               und den <persName>Ludewig</persName>,<lb/> Den Kaspar auch, der wehrte sich.<lb/> Er tunkt sie in die
+               Tinte tief,<lb/> Wie auch der <persName>K a sp a r</persName>: Feuer! rief.<lb/> Bis übern Kopf ins
+               Tintenfaß<lb/> Tunkt sie der große <persName>Nikolas</persName>.<lb/>
+            </p>
+         </div>
+         <figure>
+            <graphic url="https://commons.wikimedia.org/wiki/File:H_Hoffmann_Struwwel_11.jpg"/>
+         </figure>
+         <div xml:id="Seite.4" n="11">
+            <p>Du siehst sie hier, wie schwarz sie sind,<lb/> Viel schwärzer als das
+               Mohrenkind!<lb/> Der Mohr voraus im Sonnenschein,<lb/> Die Tintenbuben
+               hinterdrein;<lb/> Und hätten sie nicht so gelacht,<lb/> Hätt’ <persName>N i k l a s</persName> sie nicht
+               schwarz gemacht.<lb/>
+            </p>
+         </div>
+         <figure>
+            <graphic url="https://commons.wikimedia.org/wiki/File:H_Hoffmann_Struwwel_12.jpg"/>
+         </figure>
+      </body>
+   </text>
+</TEI>
