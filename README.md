@@ -1,3 +1,4 @@
 # TEI_Kurs_2022 [Christopher Pollin:](https://ufind.univie.ac.at/de/course.html?lv=136013&semester=2022W)
 Die Lehrveranstaltung bildet eine theoretische und praktische Einführung in die Modellierung von geisteswissenschaftlichen Daten mit XML, wobei ein besonderer Fokus auf den Standard Text Encoding for Interchange (TEI) gelegt wird.
-
+TEI hat sich in den letzten zwei Jahrzehnten zu einem de-facto-Standard für die semantische Auszeichnung und Anreicherung von geisteswissenschaftlichen Daten entwickelt und kommt zum Beispiel bei der Entwicklung von digitalen Editionen, digitalen Sammlungen und linguistischen Textkorpora zum Einsatz.
+In der Lehrveranstaltung wird durch eine Mischung aus Vortrag, Diskussion und praktischen Übungen in das Arbeiten mit XML und Schemasprachen, Grundlagen der Modellierung und Textauszeichnung mit TEI, sowie das Arbeiten mit den TEI Guidelines eingeführt. Es wird exemplarisch eine digitale Edition umgesetzt: von der XML/TEI Kodierung bis zur basalen Webdarstellung mittels X-Technologien (XPath, XSL-Transformation, etc.). Dabei werden für digitale Editionen spezifische Anforderungen diskutiert und reflektiert.
